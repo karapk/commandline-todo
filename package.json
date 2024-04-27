@@ -1,0 +1,19 @@
+{
+  "name": "commandline-todo",
+  "version": "1.0.0",
+  "description": "comman line todo application with all the features",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'We really need to add some testing!!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/karapk/commandline-todo.git"
+  },
+  "author": "Philip Karanja <kpk.my.mailings@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karapk/commandline-todo/issues"
+  },
+  "homepage": "https://github.com/karapk/commandline-todo#readme"
+}
